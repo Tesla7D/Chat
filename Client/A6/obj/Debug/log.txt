@@ -1,0 +1,10 @@
+11/4/2014 9:19:36 AM | System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:11000
+   at System.Net.Sockets.Socket.Connect(IPAddress[] addresses, Int32 port)
+   at System.Net.Sockets.Socket.Connect(String host, Int32 port)
+   at A6.MainForm.connect() in c:\Users\Grigory\Downloads\ChatClient\A6\A6\Main.cs:line 57
+
+11/4/2014 9:19:43 AM | System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:11000
+   at System.Net.Sockets.Socket.Connect(IPAddress[] addresses, Int32 port)
+   at System.Net.Sockets.Socket.Connect(String host, Int32 port)
+   at A6.MainForm.connect() in c:\Users\Grigory\Downloads\ChatClient\A6\A6\Main.cs:line 57
+

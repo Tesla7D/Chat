@@ -1,0 +1,20 @@
+c:\users\administrator\documents\visual studio 2013\Projects\A6\A6\bin\Debug\A6.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\A6\A6\bin\Debug\A6.exe
+c:\users\administrator\documents\visual studio 2013\Projects\A6\A6\bin\Debug\A6.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\A6\A6\obj\Debug\A6.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\A6\A6\obj\Debug\A6.MainForm.resources
+c:\users\administrator\documents\visual studio 2013\Projects\A6\A6\obj\Debug\A6.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\A6\A6\obj\Debug\A6.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\A6\A6\obj\Debug\A6.exe
+c:\users\administrator\documents\visual studio 2013\Projects\A6\A6\obj\Debug\A6.pdb
+C:\Users\Grigory\Downloads\ChatClient\A6\A6\bin\Debug\A6.exe.config
+C:\Users\Grigory\Downloads\ChatClient\A6\A6\obj\Debug\A6.exe
+C:\Users\Grigory\Downloads\ChatClient\A6\A6\obj\Debug\A6.pdb
+C:\Users\Grigory\Downloads\ChatClient\A6\A6\bin\Debug\A6.exe
+C:\Users\Grigory\Downloads\ChatClient\A6\A6\bin\Debug\A6.pdb
+C:\Users\Grigory\Downloads\ChatClient\A6\A6\obj\Debug\A6.csprojResolveAssemblyReference.cache
+C:\Users\Grigory\Downloads\ChatClient\A6\A6\obj\Debug\A6.Properties.Resources.resources
+C:\Users\Grigory\Downloads\ChatClient\A6\A6\obj\Debug\A6.csproj.GenerateResource.Cache
+C:\Users\Grigory\Downloads\ChatClient\A6\A6\obj\Debug\A6.Settings.resources
+C:\Users\Grigory\Downloads\ChatClient\A6\A6\obj\Debug\A6.MainForm.resources
+C:\Users\Grigory\Downloads\ChatClient\A6\A6\obj\Debug\A6.AboutBox.resources

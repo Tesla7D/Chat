@@ -1,0 +1,30 @@
+G:\School\Y2\S1\PROG2000 - Web Dev\SETChat-Server\SETChat-Server\SETChat-Server\bin\Debug\SETChat-Server.exe.config
+C:\Users\Grigory\Downloads\SETChat-Server\SETChat-Server\SETChat-Server\bin\Debug\SETChat-Server.exe.config
+C:\Users\Grigory\Downloads\SETChat-Server\SETChat-Server\SETChat-Server\bin\Debug\SETChat-Server.exe
+C:\Users\Grigory\Downloads\SETChat-Server\SETChat-Server\SETChat-Server\bin\Debug\SETChat-Server.pdb
+C:\Users\Grigory\Downloads\SETChat-Server\SETChat-Server\SETChat-Server\obj\Debug\SETChat-Server.csprojResolveAssemblyReference.cache
+C:\Users\Grigory\Downloads\SETChat-Server\SETChat-Server\SETChat-Server\obj\Debug\SETChat-Server.exe
+C:\Users\Grigory\Downloads\SETChat-Server\SETChat-Server\SETChat-Server\obj\Debug\SETChat-Server.pdb
+C:\Users\Grigory\Downloads\ChatClient\SETChat-Server\SETChat-Server\bin\Debug\SETChat-Server.exe.config
+C:\Users\Grigory\Downloads\ChatClient\SETChat-Server\SETChat-Server\obj\Debug\SETChat-Server.exe
+C:\Users\Grigory\Downloads\ChatClient\SETChat-Server\SETChat-Server\obj\Debug\SETChat-Server.pdb
+C:\Users\Grigory\Downloads\ChatClient\SETChat-Server\SETChat-Server\bin\Debug\SETChat-Server.exe
+C:\Users\Grigory\Downloads\ChatClient\SETChat-Server\SETChat-Server\bin\Debug\SETChat-Server.pdb
+C:\Users\Grigory\Downloads\ChatClient\SETChat-Server\SETChat-Server\obj\Debug\SETChat-Server.csprojResolveAssemblyReference.cache
+C:\Users\denys\Desktop\SETChat-Server\SETChat-Server\bin\Debug\SETChat-Server.exe.config
+C:\Users\denys\Desktop\SETChat-Server\SETChat-Server\obj\Debug\SETChat-Server.exe
+C:\Users\denys\Desktop\SETChat-Server\SETChat-Server\obj\Debug\SETChat-Server.pdb
+C:\Users\denys\Desktop\SETChat-Server\SETChat-Server\bin\Debug\SETChat-Server.exe
+C:\Users\denys\Desktop\SETChat-Server\SETChat-Server\bin\Debug\SETChat-Server.pdb
+C:\Users\denys\Desktop\SETChat-Server\SETChat-Server\bin\Debug\SETChat-Server.exe.CodeAnalysisLog.xml
+C:\Users\denys\Desktop\SETChat-Server\SETChat-Server\bin\Debug\SETChat-Server.exe.lastcodeanalysissucceeded
+C:\Users\denys\Desktop\SETChat-Server\SETChat-Server\obj\Debug\SETChat-Server.csprojResolveAssemblyReference.cache
+C:\Users\Grigory\Downloads\SETChat-Server (1)\SETChat-Server\SETChat-Server\bin\Debug\SETChat-Server.exe.config
+C:\Users\Grigory\Downloads\SETChat-Server (1)\SETChat-Server\SETChat-Server\obj\Debug\SETChat-Server.exe
+C:\Users\Grigory\Downloads\SETChat-Server (1)\SETChat-Server\SETChat-Server\obj\Debug\SETChat-Server.pdb
+C:\Users\Grigory\Downloads\SETChat-Server (1)\SETChat-Server\SETChat-Server\bin\Debug\SETChat-Server.exe
+C:\Users\Grigory\Downloads\SETChat-Server (1)\SETChat-Server\SETChat-Server\bin\Debug\SETChat-Server.pdb
+C:\Users\Grigory\Downloads\SETChat-Server (1)\SETChat-Server\SETChat-Server\obj\Debug\SETChat-Server.csprojResolveAssemblyReference.cache
+C:\Users\Grigory\Documents\Visual Studio 2012\Projects\WMP-A6\Server\SETChat-Server\bin\Debug\SETChat-Server.exe.config
+C:\Users\Grigory\Documents\Visual Studio 2012\Projects\WMP-A6\Server\SETChat-Server\obj\Debug\SETChat-Server.exe
+C:\Users\Grigory\Documents\Visual Studio 2012\Projects\WMP-A6\Server\SETChat-Server\obj\Debug\SETChat-Server.pdb

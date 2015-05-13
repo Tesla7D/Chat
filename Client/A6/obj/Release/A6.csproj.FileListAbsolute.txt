@@ -1,0 +1,10 @@
+C:\Users\Grigory\Downloads\ChatClient\A6\A6\bin\Release\A6.exe.config
+C:\Users\Grigory\Downloads\ChatClient\A6\A6\bin\Release\A6.exe
+C:\Users\Grigory\Downloads\ChatClient\A6\A6\bin\Release\A6.pdb
+C:\Users\Grigory\Downloads\ChatClient\A6\A6\obj\Release\A6.AboutBox.resources
+C:\Users\Grigory\Downloads\ChatClient\A6\A6\obj\Release\A6.MainForm.resources
+C:\Users\Grigory\Downloads\ChatClient\A6\A6\obj\Release\A6.Properties.Resources.resources
+C:\Users\Grigory\Downloads\ChatClient\A6\A6\obj\Release\A6.Settings.resources
+C:\Users\Grigory\Downloads\ChatClient\A6\A6\obj\Release\A6.csproj.GenerateResource.Cache
+C:\Users\Grigory\Downloads\ChatClient\A6\A6\obj\Release\A6.exe
+C:\Users\Grigory\Downloads\ChatClient\A6\A6\obj\Release\A6.pdb
